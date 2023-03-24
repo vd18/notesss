@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    /* background-color: cadetblue; */
+    padding: 10px;
+}
+#addBtn{
+    margin: 20px;
+    margin-left: 2px;
+}
+/* #addTxt{
+    /* background-color:burlywood; */
+
+body{
+    background-image: url(ing.jpg);
+}
+h2{
+    color: white;
+    /* text-align: center; */
+    margin-bottom: 25px;
+    
+}
+h1{
+    color: white;
+    /* text-align: center; */
+}
+h6{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+.form-label{
+    font-size: 30px;
+    
+}
+.form-control{
+    background-color:#D3E0EA;
+    
+}
+.noteCard{
+    background-color:white ;
+
+}
+
+/* .card-body{
+    background-image: url(img.jpg);
+    border: none;
+  } 
+ .card-title{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+  }  */
+  .not
+  {
+    text-align: center;
+    margin-top: 70px;
+  }
